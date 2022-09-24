@@ -6,6 +6,7 @@
 
 ## 1.	Sebutkan web server yang digunakan pada "monta.if.its.ac.id"! 
 ### nginx/1.10.3
+#### Dikerjakan Oleh Elthan Ramanda B
 Proses :
 1. Filter protocol http  karena monta protocolnya http
 <img src="image/no1.1.png">
@@ -17,6 +18,7 @@ Proses :
 <img src="image/no1.3.png">
 
 ## 2.	Ishaq sedang bingung mencari topik ta untuk semester ini , lalu ia datang ke website monta dan menemukan detail topik pada website “monta.if.its.ac.id” , judul TA apa yang dibuka oleh ishaq ?
+#### Dikerjakan Oleh Muhammad Amin
 a. Ctrl + f : cari topik atau detailtopik
 <img src="image/no2.1.png">
 
@@ -24,19 +26,24 @@ b. Setelah dapat packet klik link Full request URL nya
 <img src="image/no2.2.png">
 Evaluasi unjuk kerja User Space Filesystem (FUSE) oleh WAHYU SUADI
 
-## 3.	Filter sehingga wireshark hanya menampilkan paket yang menuju port 80! 
+## 3.	Filter sehingga wireshark hanya menampilkan paket yang menuju port 80!
+Dikerjakan Oleh Aiffah Kiysa Waafi
 <img src="image/no3.png">
 
 ## 4.	Filter sehingga wireshark hanya mengambil paket yang berasal dari port 21!
+Dikerjakan Oleh Aiffah Kiysa Waafi
 <img src="image/no4.png">
 
 ## 5.	Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!
+Dikerjakan Oleh Aiffah Kiysa Waafi
 <img src="image/no5.png">
 
 ## 6.	Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
+Dikerjakan Oleh Aiffah Kiysa Waafi
 <img src="image/no6.png">
 
 ## 7.	Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+#### Dikerjakan Oleh Elthan Ramanda B
 <img src="image/no7.png">
 
 <p>
@@ -44,6 +51,7 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
 </p>
 
 ## 8.	Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.
+#### Dikerjakan Oleh Muhammad Amin
 <img src="image/no8.1">
 <img src="image/no8.2">
 <img src="image/no8.3">
@@ -53,6 +61,7 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
 <img src="image/no8.7">
 
 ## 9.	Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
+#### Dikerjakan Oleh Muhammad Amin
 a. Scroll setiap stream ketemu satu stream sus (stream 29)
 <img src="image/no9">
 b. Ubah format ke raw
@@ -65,6 +74,7 @@ d. Pada linux jalankan command :
 <img src="image/no9.4">
 
 ## 10.	Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
-
+#### Dipecahkan Oleh Muhammad Amin
+#### Dicoba oleh Elthan Ramanda B dan Aiffah Kiysa Waafi
 Password : nakano
 Flag.txt : JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
